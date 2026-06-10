@@ -1,0 +1,10 @@
+title: Speech Article
+description: 演講整理文章集
+url: https://leescotcom.github.io
+baseurl: /speech_article
+lang: zh-TW
+timezone: Asia/Taipei
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
