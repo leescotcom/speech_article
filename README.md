@@ -11,3 +11,11 @@ Use GitHub Pages with:
 - Folder: `/root`
 
 The site entry is `index.md`.
+
+After GitHub Pages is enabled, the site should be available at:
+
+https://leescotcom.github.io/speech_article/
+
+The article page should be available at:
+
+https://leescotcom.github.io/speech_article/articles/dementia-prevention/
