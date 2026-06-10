@@ -80,6 +80,24 @@ li {
   margin-bottom: 0.55em;
 }
 
+figure {
+  margin: 34px 0;
+}
+
+figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--line);
+}
+
+figcaption {
+  margin-top: 10px;
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
 .site-footer {
   border-top: 1px solid var(--line);
   color: var(--muted);
